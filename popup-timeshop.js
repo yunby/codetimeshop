@@ -116,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://timeshop.vn/' target='_blank'><img src='https://1.bp.blogspot.com/-qxEcaTb74W0/VuKXV80NfyI/AAAAAAAAABc/rBcVpSa2nSAZcjAGNk-S1SkmW6bMwL1gg/s1600/bannertop-on-ap-lioa.png' width='500px'/>Đồng hồ chính hãng</a>. Cung cấp bởi TIMESHOP.VN. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://timeshop.vn/' target='_blank'><img src='https://3.bp.blogspot.com/-zt_ukIxYVaM/V1fOlj4At4I/AAAAAAAAAB0/SWnutluHRNo4t67jN1L0Zi3c6Koff5djQCLcB/s1600/bannertop-dong-ho-chinh-hang.png' width='500px'/>Đồng hồ chính hãng</a>. Cung cấp bởi TIMESHOP.VN. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
